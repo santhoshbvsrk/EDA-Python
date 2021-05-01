@@ -1,5 +1,5 @@
 #Pandas Visual Analysis
-This is a package generates interactive visual graphs which you can plot by just selecting the columns for x & y axis.
+This package generates interactive visual graphs which you can plot by just selecting the columns for x & y axis.
 You can also draw univariate graphs in this.
 You can find all the statistical data for a field by selecting a field and the statistical value you want to determine.
 You can normalize data for a specific field by choosing the field and check normlization flag.
