@@ -9,7 +9,7 @@ The packages which we'll be discussing here are
   3. AutoViz
   4. D-TALE
   5. PandasVisualAnalysis
-  6. DataPrep
+  6. DataPrepEDA
  
  
  Provided notebooks as well which has the commands to explain how to use these Python provided packages.
